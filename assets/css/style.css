@@ -1,0 +1,17 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 3rem;
+  }
+  .user-container {
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    padding: 20px;
+    margin-bottom: 20px;
+    max-width: 300px;
+    text-align: center;
+  }
+  .user-container img {
+    border-radius: 60%;
+  }
